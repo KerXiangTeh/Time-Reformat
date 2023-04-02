@@ -1,4 +1,4 @@
-# Time-Reformat
+# Time-Reformatting
 This is a simple python script to convert a 12-hour format to military time. 
 
 
